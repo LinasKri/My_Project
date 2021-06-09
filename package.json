@@ -1,0 +1,22 @@
+{
+    "name": "my_project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LinasKri/My_Project.git"
+    },
+    "author": "Linas Kriščiukaitis",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LinasKri/My_Project/issues"
+    },
+    "homepage": "https://github.com/LinasKri/My_Project#readme",
+    "dependencies": {
+        "live-server": "^1.2.1"
+    }
+}
